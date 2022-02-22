@@ -1,10 +1,12 @@
 # HMM-Applied-to-Russell-3000
+### Python code:
 - Step 1: merge data from WRDS's compustat and Russell 3000 lists from Bloomberg.
 - Step 2: calculate implied volatility.
 - Step 3: calculate price invariant liquidity measure.
 - Step 4: running hidden markov model.
 - Step 5: analyze and generate plots. 
 
+### Results:
 After running the python codes from 1 to 5, we can obtain these results:
 
 ![summary_ribbon_chart_avg](https://user-images.githubusercontent.com/51311870/155237952-74570521-a9b2-4b51-847c-e83b0fce9a02.png)
