@@ -1,4 +1,7 @@
 # HMM-Applied-to-Russell-3000
+### Data used:
+https://www.icloud.com.cn/iclouddrive/03affCtrpANMZ6ioYvQEAhVbA#data_used
+
 ### Python code:
 - Step 1: merge data from WRDS's compustat and Russell 3000 lists from Bloomberg.
 - Step 2: calculate implied volatility.
